@@ -8,10 +8,11 @@
   "bugs": {
     "url": "https://github.com/yyx990803/consolidate.js/issues"
   },
-  "types": "types/index.d.ts",
+  "types": "index.d.ts",
   "license": "MIT",
   "files": [
     "index.js",
+    "index.d.ts",
     "lib"
   ],
   "main": "index.js",
