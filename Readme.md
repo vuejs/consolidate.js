@@ -1,3 +1,5 @@
+> This is a fork that removes the bluebird dependency to use native Node promises. Also requires Node 12+.
+
 # Consolidate.js
 
   Template engine consolidation library.
