@@ -11,8 +11,6 @@
 
 /// <reference types="node" />
 
-import Promise = require("bluebird");
-
 declare var cons: Consolidate;
 
 export = cons;
