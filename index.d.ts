@@ -9,8 +9,6 @@
 
 // Imported from: https://github.com/soywiz/typescript-node-definitions/consolidate.d.ts
 
-/// <reference types="node" />
-
 declare var cons: Consolidate;
 
 export = cons;
